@@ -1,37 +1,15 @@
 {
   "projects": [
     {
-      "name": "Project 1",
-      "budget": "20000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "Projeto 2",
+      "name": "Projeto 1",
       "budget": "10000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "Projeto 3",
-      "budget": "250000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 8
+      "id": 1
     }
   ],
   "categories": [
