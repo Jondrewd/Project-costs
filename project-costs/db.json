@@ -1,12 +1,6 @@
 {
-  "projects": [
-    {
-      "name": "Projeto 1",
-      "budget": "10000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      }}
+  "projects": [ 
+    
   ],
   "categories": [
     {
