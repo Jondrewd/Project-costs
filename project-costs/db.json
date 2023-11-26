@@ -18,8 +18,29 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2000,
+      "services": [
+        {
+          "name": "a",
+          "cost": "500",
+          "id": "94af6fdb-c1da-4162-aa7e-5048a87d32c8"
+        },
+        {
+          "name": "a",
+          "cost": "500",
+          "id": "94af6fdb-c1da-4162-aa7e-5048a87d32c8"
+        },
+        {
+          "name": "a",
+          "cost": "500",
+          "id": "94af6fdb-c1da-4162-aa7e-5048a87d32c8"
+        },
+        {
+          "name": "a",
+          "cost": "500",
+          "id": "94af6fdb-c1da-4162-aa7e-5048a87d32c8"
+        }
+      ],
       "id": 2
     }
   ],
