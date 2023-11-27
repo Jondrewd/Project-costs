@@ -7,8 +7,22 @@
       },
       "name": "Projeto 1",
       "budget": "20000",
-      "cost": 0,
-      "services": [],
+      "cost": null,
+      "services": [
+        {
+          "name": "aaaaaaaaaaaaaa",
+          "cost": "10000",
+          "id": "bcbd68b8-c88e-47b5-9be9-33fa13eb450d"
+        },
+        {
+          "id": "96a005cf-52e0-4fe0-9821-9e43c2296a28"
+        },
+        {
+          "name": "aaa",
+          "cost": "12",
+          "id": "9758fcd6-d028-4bb1-997b-9f2fd95ecbdf"
+        }
+      ],
       "id": 1
     },
     {
@@ -38,7 +52,8 @@
         {
           "name": "a",
           "cost": "500",
-          "id": "94af6fdb-c1da-4162-aa7e-5048a87d32c8"
+          "id": "94af6fdb-c1da-4162-aa7e-5048a87d32c8",
+          "description": "Alguma coisa"
         }
       ],
       "id": 2
