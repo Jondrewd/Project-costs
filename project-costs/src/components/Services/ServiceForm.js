@@ -5,7 +5,7 @@ import { useState } from "react"
 import Input from "../Form/Input"
 import Submit from "../Form/Submit"
 
-function ServiceForm({handleSubmit, btnText, projectData}){
+function ServiceForm({handleSubmit,btnText, projectData}){
     const [service, setService] = useState({})
 
     function submit(e){
@@ -40,7 +40,8 @@ function ServiceForm({handleSubmit, btnText, projectData}){
             placeholder='Descreva o serviço'
             handleOnChange={handleChange}
             />
-            <Submit/>
+            
+            <Submit text={btnText}/>
         </form>
     )
 }
